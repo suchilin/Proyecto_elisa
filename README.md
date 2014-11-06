@@ -3,4 +3,4 @@ Sistema de control vehicular de SAGARPAº
 ##Descripcion
 Este proyecto es para la recidencia profesional en SAGARPA de elisa 
 el cual consiste en un sistema para organizar el parqu vehicular de 
-SAGARPA Durango 2014
+SAGARPA Durango Nov 2014
